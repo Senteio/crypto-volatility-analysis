@@ -1,0 +1,35 @@
+README FILE FOR CRYPTO PROJECT
+📊 Crypto Volatility Analysis
+This project performs an exploratory data analysis (EDA) on a cleaned dataset of historical cryptocurrency prices. The goal is to examine price trends, verify historical claims, and provide a foundation for deeper analysis on market behavior.
+________________________________________
+📁 Project Structure
+Crypto-Volatility-Analysis/
+├── README.md                            <- Overview of the project
+├── Crypto_Analysis_for_Git.ipynb        <- Main analysis notebook
+└── requirements.txt                     <- Python dependencies (optional)
+________________________________________
+📌 Dataset
+•	Source: Top 50 Cryptocurrencies Historical Data – Kaggle
+•	This dataset contains daily open, high, low, close, and volume data for 50 cryptocurrencies.
+________________________________________
+🚀 Getting Started
+1.	Clone the repository or download the files.
+2.	Download the original dataset from Kaggle and clean it using your own script or use the provided cleaned_crypto_data.csv.
+3.	Launch Crypto_Analysis_for_Git.ipynb in Jupyter or Google Colab.
+4.	Ensure the CSV is in the same directory or update the file path in the notebook.
+________________________________________
+📈 Features of the Notebook
+•	Load and inspect cleaned historical data
+•	Verify price history for specific timeframes (e.g. April 2021 for Bitcoin)
+•	Visualize price trends using line plots
+________________________________________
+📌 Notes
+•	This notebook avoids Google Drive/Colab-specific dependencies to ensure reproducibility.
+•	For full transparency, consider adding a data-wrangling notebook that shows how you cleaned the original dataset.
+________________________________________
+🧠 Author
+•	Project by [Steve Senteio]
+________________________________________
+📃 License
+This project is for educational purposes. Please check the original dataset license on Kaggle before redistributing.
+
