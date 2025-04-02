@@ -27,6 +27,11 @@ ________________________________________
 •	This notebook avoids Google Drive/Colab-specific dependencies to ensure reproducibility.
 •	For full transparency, consider adding a data-wrangling notebook that shows how you cleaned the original dataset.
 ________________________________________
+## 📘 Blog Post
+
+Check out the full write-up on Medium:  
+[What Can We Learn from Price, Volume, and Volatility in Crypto?](https://medium.com/@stephen.senteio/what-can-we-learn-from-price-volume-and-volatility-in-crypto-f33900f2d690)
+_______________________________________
 🧠 Author
 •	Project by [Steve Senteio]
 ________________________________________
